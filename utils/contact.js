@@ -8,7 +8,7 @@ const contact = {
         label: 'Say Hello',
         onClick: () => openLink('mailto:suriyapriyan@0506gmail.com?subject=Hello')
     },
-    designAndBuiltBy: 'Designed & Built By Afzal Imdad',
+    designAndBuiltBy: 'Designed & Built By Suriya Priyan',
     handleBuiltByClick: () => openLink('https://github.com/SuriyaPriyanS')
 }
 

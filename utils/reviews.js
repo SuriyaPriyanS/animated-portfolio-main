@@ -1,5 +1,5 @@
 const reviews = {
-    heading:  `Some Reviews`,
+    // heading:  `Some Reviews`,
     // list: [
     //     {
     //         clinet: 'Adrian',
