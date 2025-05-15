@@ -30,7 +30,7 @@ const projects = {
         {
             image: '/assets/projects/declinica.png',
             label: 'Featured Project',
-            title: 'Digital Marketing Platformica',
+            title: 'Digital Marketing Platform',
             description: 'A Decentralised blockchain Designed for the medical community.',
             techs: [
                 'React Js',
@@ -45,6 +45,9 @@ const projects = {
             techs: [
                 'React Js',
                 'Web3 Js',
+                'Node Js',
+                'Express Js'
+                
             ]
         },
         {

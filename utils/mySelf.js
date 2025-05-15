@@ -5,20 +5,22 @@ const mySelf = {
     ],
     techList1: [
         'JavaScript/TypeScript',
-        'React.js/Native',
+        'React.js',
         'Next.js',
         'Express.js',
         'Node.js',
         'Firestore',
+        'Java',
 
         'MongoDB'
     ],
     techList2: [
-        'Web3.js',
-        'Solidity',
-        'Ionic',
-        'Cordova',
-        'PWA/SPA',
+
+        'Cypress',
+        'Jest.js',
+        'Render',
+        'Jira',
+        'bitbucket',
         'AWS',
     ],
     image: '/assets/Proflie.png',

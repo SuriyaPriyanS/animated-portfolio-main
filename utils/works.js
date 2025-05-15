@@ -8,8 +8,8 @@ const works = {
                     role: 'Jr. Full Stack Developer',
                     duration: ' | May 2024 - Present',
                     points: [
-                        `In my role as a Full Stack Engineer at Cubicus.io, I engineered comprehensive solutions, seamlessly integrating frontend and backend technologies to create a cohesive user experience.`,
-                        "Collaborating with a dynamic team, I played a key role in driving innovation and ensuring the success of projects at Cubicus.io.",
+                        `In my role as a Full Stack Engineer at MecuryMinds, I engineered comprehensive solutions, seamlessly integrating frontend and backend technologies to create a cohesive user experience.`,
+                        "Collaborating with a dynamic team, I played a key role in driving innovation and ensuring the success of projects at Cromapages.",
                         'Employing a versatile skill set, I contributed to the development of scalable applications and implemented robust server-side functionalities.'
                     ],
                 },
@@ -17,7 +17,7 @@ const works = {
                     role: 'Juinor Software Engineer',
                     duration: ' May 2024 - Present',
                     points: [
-                        `Spearheaded the planning and execution of multiple software development projects, ensuring alignment with Cubicus.io's strategic goals and delivering projects on time and within budget.`,
+                        `Spearheaded the planning and execution of multiple software development projects, ensuring alignment with Cromapages's strategic goals and delivering projects on time and within budget.`,
                         "Managed and coordinated cross-functional teams, fostering collaboration between developers, designers, and stakeholders to achieve project milestones and maintain high standards of quality.",
                         'Proactively identified potential risks and bottlenecks, implementing effective mitigation strategies and problem-solving approaches to keep projects on track and ensure successful outcomes.'
                     ],
