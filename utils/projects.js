@@ -14,8 +14,8 @@ const projects = {
                 'Mongodb',
             ],
             links: {
-                live: 'https://your-event-management-system.com', // Replace with actual URL
-                github: 'https://github.com/yourusername/event-management-system', // Replace with actual repo
+               // live: 'https://your-event-management-system.com', // Replace with actual URL
+                //github: 'https://github.com/yourusername/event-management-system', // Replace with actual repo
             }
         },
         {
@@ -60,7 +60,7 @@ const projects = {
                 'Express Js'
             ],
             links: {
-                live: 'https://rolazdoro.com', // Replace with actual URL
+                live: 'https://cryptocurrency11.netlify.app', // Replace with actual URL
                 //github: 'https://github.com/yourusername/rolazdoro', // Replace with actual repo
             }
         },
