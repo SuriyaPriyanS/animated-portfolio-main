@@ -5,7 +5,7 @@ const certifications = {
     // list: [
     //     {
     //         size: 1,
-    //         title: 'DevOps on AWS Specialization',
+    //         title: 'Full Stack Developer',
     //         platform: 'Coursera',
     //         link: '',
     //         date: 'Issued Sep 2022 · No Expiration Date',

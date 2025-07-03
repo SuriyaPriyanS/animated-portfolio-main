@@ -11,9 +11,12 @@ const projects = {
                 'Express Js',
                 'Next Js',
                 'Node Js',
-            
                 'Mongodb',
-            ]
+            ],
+            links: {
+                live: 'https://your-event-management-system.com', // Replace with actual URL
+                github: 'https://github.com/yourusername/event-management-system', // Replace with actual repo
+            }
         },
         {
             image: '/assets/projects/digitalplattform.png',
@@ -25,7 +28,11 @@ const projects = {
                 'Express Js',
                 'Next Js',
                 'Mongodb',
-            ]
+            ],
+            links: {
+                live: 'https://alpha-proadmin.cromapages.com/', // Replace with actual URL
+                // github: 'https://github.com/yourusername/digital-marketing-platform', // Replace with actual repo
+            }
         },
         {
             image: '/assets/projects/declinica.png',
@@ -35,7 +42,11 @@ const projects = {
             techs: [
                 'React Js',
                 'Web3 Js',
-            ]
+            ],
+            links: {
+                live: 'https://alpha-app.cromapages.com', // Replace with actual URL
+                //github: 'https://github.com/yourusername/declinica', // Replace with actual repo
+            }
         },
         {
             image: '/assets/projects/rolazdoro.png',
@@ -47,8 +58,11 @@ const projects = {
                 'Web3 Js',
                 'Node Js',
                 'Express Js'
-                
-            ]
+            ],
+            links: {
+                live: 'https://rolazdoro.com', // Replace with actual URL
+                //github: 'https://github.com/yourusername/rolazdoro', // Replace with actual repo
+            }
         },
         {
             image: '/assets/projects/chainracers.png',
@@ -60,9 +74,20 @@ const projects = {
                 'Node Js',
                 'Express Js',
                 'Mongodb'
-            ]
+            ],
+            links: {
+                live: 'https://your-learning-platform.com', // Replace with actual URL
+                //github: 'https://github.com/yourusername/learning-platform', // Replace with actual repo
+            }
         }
     ]
+}
+
+// Helper function to handle link clicks
+export const openProjectLink = (url) => {
+    if (url) {
+        window.open(url, '_blank', 'noopener,noreferrer');
+    }
 }
 
 export default projects
