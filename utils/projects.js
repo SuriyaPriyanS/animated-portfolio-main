@@ -76,7 +76,7 @@ const projects = {
                 'Mongodb'
             ],
             links: {
-                live: 'https://your-learning-platform.com', // Replace with actual URL
+                live: '', // Replace with actual URL
                 //github: 'https://github.com/yourusername/learning-platform', // Replace with actual repo
             }
         }
