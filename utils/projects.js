@@ -14,7 +14,7 @@ const projects = {
                 'Mongodb',
             ],
             links: {
-               // live: 'https://your-event-management-system.com', // Replace with actual URL
+                live: 'https://event-management-demo.vercel.app', // Replace with actual URL
                 //github: 'https://github.com/yourusername/event-management-system', // Replace with actual repo
             }
         },
@@ -38,10 +38,11 @@ const projects = {
             image: '/assets/projects/declinica.png',
             label: 'Featured Project',
             title: 'Digital Marketing Platform',
-            description: 'A Decentralised blockchain Designed for the medical community.',
+            description: 'Built a fully dynamic content management system to manage digital cards, events, 3D models, and product catalogs.',
             techs: [
                 'React Js',
-                'Web3 Js',
+                'node Js',
+                
             ],
             links: {
                 live: 'https://alpha-app.cromapages.com', // Replace with actual URL
