@@ -62,7 +62,7 @@ const projects = {
             ],
             links: {
                 live: 'https://cryptocurrency11.netlify.app', // Replace with actual URL
-                //github: 'https://github.com/yourusername/rolazdoro', // Replace with actual repo
+                // github: 'https://github.com/SuriyaPriyanS/FrontendCryptoApp', // Replace with actual repo
             }
         },
         {
@@ -78,7 +78,7 @@ const projects = {
             ],
             links: {
                 live: '', // Replace with actual URL
-                //github: 'https://github.com/yourusername/learning-platform', // Replace with actual repo
+                // github: 'https://github.com/yourusername/learning-platform', // Replace with actual repo
             }
         }
     ]

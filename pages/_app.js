@@ -58,6 +58,7 @@ function MyApp({ Component, pageProps }) {
           sizes="32x32" />
         <link rel="apple-touch-icon" href="../public/icons/16.png"></link>
         <link rel="apple-touch-icon" href="../public/icons/32.png"></link>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
       </Head>
       <Component {...pageProps} />
     </>

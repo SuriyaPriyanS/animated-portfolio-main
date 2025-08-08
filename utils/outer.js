@@ -15,7 +15,13 @@ const outer = {
     button: {
         label: 'Contact me!',
         onClick: () => openLink('mailto:suriyapriyan0506@gmail.com?subject=Hello')
-    }
+    },
+     button: {
+        label: 'Curriculum Vitae | CV',
+        onClick: () => openLink('assets/cv.pdf')
+    },
+
+  
 }
 
 export default outer

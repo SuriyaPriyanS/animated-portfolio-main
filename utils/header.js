@@ -12,14 +12,14 @@ const header = {
         // { title: 'Contribution', id: 'contributions' },
         { title: 'Contact', id: 'contact' },
     ],
-    rightBtn: {
-        label: 'Curriculum Vitae | CV',
-        onClick: () => openLink('assets/cv.pdf')
-    },
-    logo: {
-        src: '/assets/Proflie.png',
-        alt: 'suriya'
-    },
+    // rightBtn: {
+    //     label: 'Curriculum Vitae | CV',
+    //     onClick: () => openLink('assets/cv.pdf')
+    // },
+    // logo: {
+    //     src: '/assets/Proflie.png',
+    //     alt: 'suriya'
+    // },
     handleIconClick: () => scrollTo('home'),
     handleItemSelect: (menu) => scrollTo(menu.id),
 }
